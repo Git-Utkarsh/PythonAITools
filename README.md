@@ -28,4 +28,7 @@ To run the program, follow these steps:
 1. Install the necessary dependencies:
 
    ```bash
+   git clone https://github.com/Git-Utkarsh/PythonAITools.git
+   cd PythonAITools
+   python Virtual\ VolumeController/main.py or python Virtual\ MouseController/main.py
    pip install -r requirements.txt
