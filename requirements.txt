@@ -1,0 +1,9 @@
+cv2
+mediapipe
+math
+numpy
+ctypes
+pyautogui
+screeninfo
+comtypes
+pycaw
