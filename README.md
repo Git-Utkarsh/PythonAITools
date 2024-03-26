@@ -18,7 +18,6 @@ This project implements virtual controllers for mouse and volume using hand gest
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Installation
