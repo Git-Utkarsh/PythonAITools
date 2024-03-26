@@ -1,6 +1,6 @@
 # Virtual Controller
 
-![Profile Views](https://komarev.com/ghpvc/?username=Git-Utkarsh)
+![Repository Views](https://views.whatilearened.today/views/github/Git-Utkarsh/PythonAITools.svg)
 ![Languages](https://img.shields.io/github/languages/count/Git-Utkarsh/PythonAITools)
 ![Stars](https://img.shields.io/github/stars/Git-Utkarsh/PythonAITools?style=social)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -14,8 +14,14 @@ This project implements virtual controllers for mouse and volume using hand gest
 - Virtual mouse controller
 - Volume controller
 - Hand gesture recognition
+## Table of Contents
 
-## Setup
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [License](#license)
+
+## Installation
 
 To run the program, follow these steps:
 
